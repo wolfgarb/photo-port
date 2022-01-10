@@ -1,4 +1,5 @@
 import React from 'react';
+// this library is rendering the APP component
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
